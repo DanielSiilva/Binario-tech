@@ -6,3 +6,5 @@ const api = axios.create({
 
 
 export const getKeyboard = () => api.get('/Keyboards')
+export const getMouses = () => api.get('/Mouses')
+export const getEarphones = () => api.get('/Earphones')

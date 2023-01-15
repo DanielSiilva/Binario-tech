@@ -6,8 +6,8 @@ export function Header () {
 
     return(
 
-        <Container> 
-            <h1> Binario - Tech</h1>
+        <Container>
+            <h1> Binário - Tech</h1>
         </Container>
     )
 }

@@ -1,4 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
+import { Earphone } from '../pages/Main/Earphone'
 
 import {Main} from "../pages/Main/index"
 import { Keyboard } from '../pages/Main/Keyboard'
@@ -9,7 +10,8 @@ export function AppRoutes() {
     <Routes>
       <Route path='/' element={<Main />}>
         <Route path='/' element={<Keyboard />} />
-        <Route path='/mouse' element={<Mouse />} />
+        <Route path='/mouses' element={<Mouse />} />
+        <Route path='/earphones' element={<Earphone />} />
       </Route>
     </Routes>
   )

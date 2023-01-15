@@ -10,9 +10,9 @@ export function Keyboard() {
 
     useEffect(() => {
         ;(async () => {
-          const pizzasRequest = await getKeyboard()
+          const pizzaskeyboard = await getKeyboard()
     
-          setKeyboard(pizzasRequest.data)
+          setKeyboard(pizzaskeyboard.data)
 
           console.log(keyboard)
         })()
@@ -20,7 +20,7 @@ export function Keyboard() {
 
     return(
         <>
-            <Head title='Pizzas' />
+            <Head title='keyboard' />
             <SnackTitle>Teclados</SnackTitle>
             <Snacks snacks={keyboard}></Snacks>
         </>

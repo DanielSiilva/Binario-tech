@@ -40,6 +40,90 @@
       "price": 530.90,
       "image": "https://m.media-amazon.com/images/I/71eyopUlbuL._AC_SX450_.jpg"
     }
+  ],
+  "Mouses": [
+    {
+      "id": 1,
+      "snack": "Mouse",
+      "name": "Mouse Gamer",
+      "description": "O mouse gamer é um pouco maior, pra ocupar todo o espaço da mão, e pode ter vários botões, pra facilitar muito em jogos de ação. ",
+      "price": 801.23,
+      "image": "https://s2.glbimg.com/oXs_-egjFpFexJYc4UYQh6GZ3FM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/I/9/o9MjIxSniARVS3ftwjcA/redragon.png"
+    },
+    {
+      "id": 2,
+      "snack": "Mouse",
+      "name": "Mouse Gamer",
+      "description": "O mouse gamer é um pouco maior, pra ocupar todo o espaço da mão, e pode ter vários botões, pra facilitar muito em jogos de ação. ",
+      "price": 500,
+      "image": "https://livecodestream.dev/post/best-programming-mice/basilisk_hud463e97e26d9e4d335a15ef420de2097_159027_700x0_resize_q90_h2_lanczos.webp"
+    },
+    {
+      "id": 3,
+      "snack": "Mouse",
+      "name": "Mouse Gamer",
+      "description": "O mouse gamer é um pouco maior, pra ocupar todo o espaço da mão, e pode ter vários botões, pra facilitar muito em jogos de ação. ",
+      "price": 353.99,
+      "image": "https://mspoweruser.com/wp-content/uploads/2017/10/razer-mouse.jpg"
+    },
+    {
+      "id": 4,
+      "snack": "Mouse",
+      "name": "Mouse Gamer",
+      "description": "O mouse gamer é um pouco maior, pra ocupar todo o espaço da mão, e pode ter vários botões, pra facilitar muito em jogos de ação. ",
+      "price": 199.99,
+      "image": "https://mspoweruser.com/wp-content/uploads/2017/10/razer-mouse.jpg"
+    },
+    {
+      "id": 5,
+      "snack": "Mouse",
+      "name": "Mouse Gamer",
+      "description": "O mouse gamer é um pouco maior, pra ocupar todo o espaço da mão, e pode ter vários botões, pra facilitar muito em jogos de ação. ",
+      "price": 480.56,
+      "image": "https://m.media-amazon.com/images/I/415gJy7xC4L._SY450_.jpg"
+    }
+  ],
+  "Earphones":[
+    {
+      "id": 1,
+      "snack": "Earphone",
+      "name": "Headphone Gamer",
+      "description": "Headphone Fone de Ouvido Havit HV-H2232d, Gamer, Iluminação RGB, com Microfone, Falante de 50mm ",
+      "price": 290.22,
+      "image": "https://m.media-amazon.com/images/I/61yqXypoaDL._AC_SX569_.jpg"
+    },
+    {
+      "id": 2,
+      "snack": "Earphone",
+      "name": "Headphone Gamer",
+      "description": "Headphone Fone de Ouvido Havit HV-H2232d, Gamer, Iluminação RGB, com Microfone, Falante de 50mm ",
+      "price": 500,
+      "image": "https://imgs.extra.com.br/1548264183/1xg.jpg?imwidth=500"
+    },
+    {
+      "id": 3,
+      "snack": "Earphone",
+      "name": "Headphone Gamer",
+      "description": "Headphone Fone de Ouvido Havit HV-H2232d, Gamer, Iluminação RGB, com Microfone, Falante de 50mm ",
+      "price": 39.22,
+      "image": "https://m.media-amazon.com/images/I/51FUhlHc42L._AC_SX569_.jpg"
+    },
+    {
+      "id": 4,
+      "snack": "Earphone",
+      "name": "Headphone Gamer",
+      "description": "Headphone Fone de Ouvido Havit HV-H2232d, Gamer, Iluminação RGB, com Microfone, Falante de 50mm ",
+      "price": 53.62,
+      "image": "https://cirilocabos.vtexassets.com/arquivos/ids/175542-800-800?v=637097923187900000&width=800&height=800&aspect=true"
+    },
+    {
+      "id": 5,
+      "snack": "Earphone",
+      "name": "Headphone Gamer",
+      "description": "Headphone Fone de Ouvido Havit HV-H2232d, Gamer, Iluminação RGB, com Microfone, Falante de 50mm ",
+      "price": 1256.22,
+      "image": "https://imgs.extra.com.br/1530728446/1xg.jpg?imwidth=500"
+    }
   ]
 
   

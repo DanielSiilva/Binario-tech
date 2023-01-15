@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 import { Container } from './styles'
 
-import { Keyboard } from 'phosphor-react'
+import { Headphones, Keyboard } from 'phosphor-react'
 import { List } from 'phosphor-react'
 import { Mouse } from 'phosphor-react'
 
@@ -30,9 +30,16 @@ export function Sidebar() {
             </NavLink>
           </li>
           <li>
-            <NavLink to='/mouse'>
+            <NavLink to='/mouses'>
             <Mouse />
               <span>Mouses</span>
+            </NavLink>
+          </li>
+
+          <li>
+            <NavLink to='/earphones'>
+            <Headphones />
+              <span>Fones</span>
             </NavLink>
           </li>
           

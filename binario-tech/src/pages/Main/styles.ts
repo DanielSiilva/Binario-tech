@@ -11,7 +11,6 @@ export const Container = styled.main`
     height: 100vh;
     overflow-y: auto;
     padding: 2rem 1.875rem;
-
     img {
       width: 10rem;
       margin-bottom: 2rem;

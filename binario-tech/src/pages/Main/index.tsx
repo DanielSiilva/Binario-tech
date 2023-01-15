@@ -1,7 +1,18 @@
 
+import { Outlet } from "react-router-dom";
+import { Sidebar } from "../../components/Sibedar/index";
+import { Container } from "./styles";
+
+import logoImg from '../../assets/logo.svg'
 
 export  function Main() {
   return (
-    <h1> Main</h1>
+    <Container>
+      <Sidebar/>
+      <section>
+        
+        <Outlet />
+      </section>
+    </Container>
   )
 }

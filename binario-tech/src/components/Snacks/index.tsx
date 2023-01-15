@@ -1,5 +1,6 @@
-import { FiPlus } from 'react-icons/fi'
 
+
+import { ShoppingCart } from 'phosphor-react'
 import { currencyFormat } from '../../helpers/currencyFormat'
 import { SkeletonSnack } from './SkeletonSnack'
 
@@ -22,7 +23,7 @@ export function Snacks({ snacks }: SnacksProps) {
               <div>
                 <strong>{currencyFormat(snack.price)}</strong>
                 <button type='button'>
-                  <FiPlus />
+                  <ShoppingCart weight='fill' />
                 </button>
               </div>
             </div>

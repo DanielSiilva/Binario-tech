@@ -1,4 +1,4 @@
-import { darken } from 'polished'
+
 
 import styled from 'styled-components'
 
@@ -7,15 +7,19 @@ export const Container = styled.div`
   grid-template-columns: repeat(auto-fit, minmax(300px, auto));
   gap: 1.75rem;
 
+  border-radius: 50px;
+  
+
   @media (max-width: 500px) {
     grid-template-columns: 1fr;
   }
 
   .snack {
     position: relative;
-    background: ${({ theme }) => theme.colors.black};
+    background: ${({ theme }) => theme.colors.gray100};
     padding: 1.75rem 1.5rem;
-    border-radius: 4px;
+    border: 3px solid ${({ theme }) => theme.colors.gray900};
+    border-radius: 20px;
 
     h2 {
       margin-bottom: 0.75rem;
@@ -60,14 +64,12 @@ export const Container = styled.div`
         justify-content: center;
 
         svg {
-          stroke: ${({ theme }) => theme.colors.white};
+          color: ${({ theme }) => theme.colors.gray100};
           width: 1.5rem;
           height: 1.5rem;
         }
 
-        &:hover {
-          background: ${darken(0.1, '#AA2424')};
-        }
+        
       }
     }
   }

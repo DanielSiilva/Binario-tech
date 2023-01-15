@@ -1,44 +1,44 @@
 {
-  "Teclados": [
+  "Keyboards": [
     {
       "id": 1,
-      "snack": "teclado",
-      "name": "Corsair K100 OPX RGB",
-      "description": "Corsair Teclado para jogos óptico e mecânico RGB K100 - Corsair OPX RGB Interruptores de tecla mecânicos óptico-mecânicos - Tecnologia de hiperprocessamento AXON para uma taxa de transferência 4X mais rápida - 44-Zone RGB LightEdge",
+      "snack": "Keyboard",
+      "name": "Redragon Kumara",
+      "description": "Teclado Mecânico Bom e Barato",
       "price": 2593.58,
-      "image":"https://m.media-amazon.com/images/I/713siPvPt1L._AC_SX569_.jpg"
+      "image":"https://http2.mlstatic.com/D_NQ_NP_981649-MLB45258521835_032021-O.jpg"
     },
     {
       "id": 2,
-      "snack": "burger",
-      "name": "Extra Bacon",
-      "description": "Criado para os amantes de bacon, possui em todas as suas camadas bacon bem assado e ainda queijo e carne.",
-      "price": 23.5,
-      "image": "https://i.imgur.com/B4J04AJ.jpg"
+      "snack": "Keyboard",
+      "name": "Redragon Kumara",
+      "description": "Teclado Mecânico Bom e Barato",
+      "price": 1236.90,
+      "image": "https://images-americanas.b2w.io/produtos/5523202488/imagens/teclado-mecanico-rosa-com-botao-multimidia-apoio-para-as-maos-painel-de-metal-retroiluminacao-branca-teclas-pbt-rosa-e-brancas-lindo-teclado-usb-com-fio-de-tamanho-completo-para-jogos-e-pc-de-escritorio-laptop-mac-interruptor-preto/5523202488_1_xlarge.jpg"
     },
     {
       "id": 3,
-      "snack": "burger",
-      "name": "Tradicional",
-      "description": "O simples também é delicioso, principalmente se envolver nossa carne artesanal e queijo.",
-      "price": 12,
-      "image": "https://i.imgur.com/Jz506jB.jpg"
+      "snack": "Keyboard",
+      "name": "Redragon Kumara",
+      "description": "Teclado Mecânico Bom e Barato",
+      "price": 617.90,
+      "image": "https://ae01.alicdn.com/kf/S6186a8b50edc4098bf8ef037676dca63o/REDRAGON-K688-RGB-Mini-teclado-mec-nico-para-juegos-USB-interruptor-rojo-azul-78-teclas-cable.jpg_640x640.jpg"
     },
     {
       "id": 4,
-      "snack": "burger",
-      "name": "Big Carne",
-      "description": "Uma carne artesanal de primeira qualidade com 4cm de altura e uma salada completa com alface, cebola, tomate e outros.",
-      "price": 18.0,
-      "image": "https://i.imgur.com/bF8EdBb.jpg"
+      "snack": "Keyboard",
+      "name": "Redragon Kumara",
+      "description": "Teclado Mecânico Bom e Barato",
+      "price": 1368.80,
+      "image": "https://cf.shopee.com.br/file/9de1bb64534edca4e74b042dfd42a04d"
     },
     {
       "id": 5,
-      "snack": "burger",
-      "name": "Carne dupla",
-      "description": "Já pensou em comer aquele sanduíche com carne dupla e saborosa, recheada com queijo, molho e salada? Então você pensou exatamente nesse hambúrguer.",
-      "price": 20,
-      "image": "https://i.imgur.com/fdEY2kY.jpg"
+      "snack": "Keyboard",
+      "name": "Redragon Kumara + Mouse",
+      "description": "Teclado Mecânico Bom e Barato",
+      "price": 530.90,
+      "image": "https://m.media-amazon.com/images/I/71eyopUlbuL._AC_SX450_.jpg"
     }
   ]
 

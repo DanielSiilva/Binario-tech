@@ -8,12 +8,13 @@ export const Title = styled.h1`
   margin-bottom: 3rem;
 
   font-size: ${({ theme }) => theme.fontSize['4xl']};
-  font-weight: 500;
+  font-weight: bold;
+  text-decoration: underline ${({ theme }) => theme.colors.gray700};
   text-transform: uppercase;
 
   &::before {
     content: '';
-    background: ${({ theme }) => theme.colors.white};
+    background: ${({ theme }) => theme.colors.red};
     width: 42px;
     height: 5px;
     flex-shrink: 0;

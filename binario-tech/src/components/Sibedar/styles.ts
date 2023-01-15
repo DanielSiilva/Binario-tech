@@ -5,7 +5,8 @@ interface ContainerProps {
 }
 
 export const Container = styled.aside<ContainerProps>`
-  background-color: ${({ theme }) => theme.colors.gray900};
+  background-color: ${({ theme }) => theme.colors.red};
+  border-right: 2px solid;
 
   ${({ isMenuOpen }) =>
     isMenuOpen
@@ -56,15 +57,15 @@ export const Container = styled.aside<ContainerProps>`
         gap: 2rem;
 
         svg {
-          color: ${({ theme }) => theme.colors.white};
+          color: ${({ theme }) => theme.colors.gray900};
           width: 4rem;
           height: 4rem;
           transition: fill 0.3s;
         }
 
         span {
-          font-size: 1rem;
-          font-weight: 500;
+          font-size: 1.5rem;
+          font-weight: bold;
           transition: color 0.3s;
         }
 
@@ -77,7 +78,7 @@ export const Container = styled.aside<ContainerProps>`
             bottom: 0;
             transform: translateY(-50%);
 
-            background-color: ${({ theme }) => theme.colors.yellow};
+            background-color: ${({ theme }) => theme.colors.gray100};
             width: 5px;
             height: calc(100% + 10px);
 
@@ -85,11 +86,11 @@ export const Container = styled.aside<ContainerProps>`
           }
 
           svg {
-            color: ${({ theme }) => theme.colors.yellow};
+            color: ${({ theme }) => theme.colors.gray100};
           }
 
           span {
-            color: ${({ theme }) => theme.colors.yellow};
+            color: ${({ theme }) => theme.colors.gray100};
           }
         }
       }

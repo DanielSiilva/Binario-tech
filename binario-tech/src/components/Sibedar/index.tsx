@@ -19,7 +19,7 @@ export function Sidebar() {
   return (
     <Container isMenuOpen={menuOpen}>
       <button type='button' onClick={handleToggleMenu}>
-        <List size={40} color='#ffff'/>
+        <List size={60} color='#ffff'/>
       </button>
       <nav>
         <ul>
